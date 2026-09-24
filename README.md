@@ -5,14 +5,15 @@
 Проект предназначен для изучения Git, GitHub и командной разработки.
 
 ## Команда
-Nazarova Gulaiym - Backend Developer
+* Бурулай - DevOps Engineer
+* Nazarova Gulaiym - Backend Developer
 
 ## Стек технологий
-Java 
-linux
+* Docker
+* Linux
+* Java
 
 ## Инструкции по запуску
-
 1. Клонировать репозиторий с GitHub.
 2. Открыть проект в IntelliJ IDEA.
 3. Запустить главный класс Java-приложения.
